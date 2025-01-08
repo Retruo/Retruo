@@ -1,16 +1,25 @@
-## Hi there 👋
+## About Me
+Hi there! 👋 I'm a passionate learner with interests in **cybersecurity**, **data science**, and programming. I enjoy exploring how technology can solve complex problems and protect valuable information. Currently, I'm diving deep into Python and ethical hacking as part of my journey into the cybersecurity world. 🌐
 
-<!--
-**Retruo/Retruo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- **Programming:** Python (beginner level, learning and applying daily!)
+- **Languages:** Fluent in English and Arabic (can translate efficiently between both).
+- **Technical Skills:** Adept at using computers and adapting to new technologies quickly.
+- **Problem Solving:** Strong analytical and creative problem-solving abilities.
 
-Here are some ideas to get you started:
+## Current Focus
+- **Learning:** Google Cybersecurity Course to build a solid foundation in security principles and practices.
+- **Projects:** Exploring ethical hacking tools and concepts to enhance practical knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Master Python programming for use in cybersecurity tools and scripts.
+- Gain proficiency in cybersecurity frameworks like NIST and implement real-world projects.
+- Build a portfolio of projects that demonstrate my growth and expertise in ethical hacking and cybersecurity.
+
+## Contact Me
+- **GitHub:** [Your GitHub Profile Link]
+- **Email:** [Your Email Address]
+
+---
+
+Feel free to explore my repositories and reach out if you have any suggestions or would like to collaborate!
