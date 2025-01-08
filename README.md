@@ -17,8 +17,8 @@ Hi there! 👋 I'm a passionate learner with interests in **cybersecurity**, **d
 - Build a portfolio of projects that demonstrate my growth and expertise in ethical hacking and cybersecurity.
 
 ## Contact Me
-- **GitHub:** [Your GitHub Profile Link]
-- **Email:** [Your Email Address]
+- **GitHub:** [https://github.com/Retruo]
+- **Email:** [azozkari011@gmail.com]
 
 ---
 
