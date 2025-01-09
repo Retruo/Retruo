@@ -7,6 +7,13 @@ Hi there! 👋 I'm a passionate learner with interests in **cybersecurity**, **d
 - **Technical Skills:** Adept at using computers and adapting to new technologies quickly.
 - **Problem Solving:** Strong analytical and creative problem-solving abilities.
 
+## Certifications
+- **EF SET English Certificate**: Achieved a **B2 (Upper Intermediate)** level, with proficiency scores in:
+  - **Reading:** C2 (Proficient)
+  - **Listening:** C1 (Advanced)
+  - **Writing:** B1 (Intermediate)
+  - **Speaking:** B1 (Intermediate)
+  - [Certificate Link](https://cert.efset.org/ZJYspa)
 ## Current Focus
 - **Learning:** Google Cybersecurity Course to build a solid foundation in security principles and practices.
 - **Projects:** Exploring ethical hacking tools and concepts to enhance practical knowledge.
