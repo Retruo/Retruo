@@ -1,5 +1,5 @@
 ## About Me
-Hi there! 👋 I'm a passionate learner with interests in **cybersecurity**, **data science**, and programming. I enjoy exploring how technology can solve complex problems and protect valuable information. Currently, I'm diving deep into Python and ethical hacking as part of my journey into the cybersecurity world. 🌐
+Hi there! im Abdalazeez👋 I'm a passionate learner with interests in **cybersecurity**, **data science**, and programming. I enjoy exploring how technology can solve complex problems and protect valuable information. Currently, I'm diving deep into Python and ethical hacking as part of my journey into the cybersecurity world. 🌐
 
 ## Skills
 - **Programming:** Python (beginner level, learning and applying daily!)
